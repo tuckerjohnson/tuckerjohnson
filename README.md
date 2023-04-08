@@ -14,8 +14,6 @@ platforms I use:
 - Acer c740 (Auron Paine)
 	- Intel Celeron 3205U
 	- Artix Linux
-- Ish (IOS on iphone and ipad)
-	- Alpine Linux
 
 interested in:
 - organization
