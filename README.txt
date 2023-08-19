@@ -1,13 +1,14 @@
 composer living in Rochester, New York
 
-**interested in:**
+interested in:
 - organization
 - command line workflow
 - second-hand hardware
 - linux
 - improvisation
+- second-hand and recycled hardware
 
-**platforms I use:**
+platforms I use:
 - Optiplex 7450 AIO
 	- Intel i5-6500
 	- Artix Linux
