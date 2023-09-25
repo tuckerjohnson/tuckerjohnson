@@ -9,9 +9,6 @@ interested in:
 - second-hand and recycled hardware
 
 platforms I use:
-- Optiplex 7450 AIO
-	- Intel i5-6500
-	- Artix Linux
 - HP Omen 15T
 	- Intel i7-8750H
 	- NVIDIA GeForce GTX 1050 Mobile
