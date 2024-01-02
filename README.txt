@@ -3,7 +3,6 @@ composer living in Rochester, New York
 interested in:
 - organization
 - command line workflow
-- second-hand hardware
 - linux
 - improvisation
 - second-hand and recycled hardware
